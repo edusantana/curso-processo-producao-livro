@@ -8,10 +8,10 @@
   <revhistory>
     <revision>
       <revnumber>v1.0</revnumber>
-      <date>Março 2013</date>
-      <authorinitials>Autor 1, Autor 2</authorinitials>
+      <date>Junho 2013</date>
+      <authorinitials>Eduardo</authorinitials>
       <revremark>
-        Primeira versão do livro
+        Primeira versão do curso
       </revremark>
     </revision>
   </revhistory>
@@ -19,27 +19,11 @@
 
   <authorgroup>
     <author>
-      <firstname>Nome</firstname>
-      <surname>Sobrenome</surname>
-      <affiliation>
-        <jobtitle>Professor</jobtitle>
-        <orgname>Universidade Federal da Paraíba</orgname>
-      </affiliation>
-      <authorblurb>
-        <para>
-          Principal contribuidor do livro.
-        </para>
-      </authorblurb>
-    </author>
+      <firstname>Eduardo</firstname>
+      <surname>Santana</surname>
   </authorgroup>
 
-  <othercredit>
-      <firstname>Eduardo</firstname>
-      <surname>Medeiros</surname>
-      <othername>Santana</othername>
-    <contrib>Editor</contrib>
-  </othercredit>
-  
+
   <copyright>
     <year>2013</year>
     <holder>UAB</holder>
