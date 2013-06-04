@@ -3,7 +3,7 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.0</edition>
+  <edition>v1.1</edition>
 
   <revhistory>
     <revision>
@@ -14,6 +14,18 @@
         Primeira versão do curso básico.
       </revremark>
     </revision>
+
+    <revision>
+      <revnumber>v1.1</revnumber>
+      <date>Maio 2013</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+        Inclusão da seção sobre as intruções e os vídeos.
+      </revremark>
+    </revision>
+
+
+
   </revhistory>
 
 
