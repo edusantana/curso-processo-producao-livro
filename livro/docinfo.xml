@@ -3,9 +3,29 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.1</edition>
+  <edition>v1.2</edition>
 
   <revhistory>
+
+
+    <revision>
+      <revnumber>v1.2</revnumber>
+      <date>Junho 2013</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+        Inclusão do Glossário.
+      </revremark>
+    </revision>
+
+    <revision>
+      <revnumber>v1.1</revnumber>
+      <date>Junho 2013</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+        Inclusão de seções: Intruções sobre os vídeos. Cronograma. FAQ.
+      </revremark>
+    </revision>
+
     <revision>
       <revnumber>v1.0</revnumber>
       <date>Maio 2013</date>
@@ -15,14 +35,6 @@
       </revremark>
     </revision>
 
-    <revision>
-      <revnumber>v1.1</revnumber>
-      <date>Junho 2013</date>
-      <authorinitials>Eduardo</authorinitials>
-      <revremark>
-        Inclusão da seção sobre as intruções e vídeos. Cronograma. FAQ. Glossário.
-      </revremark>
-    </revision>
 
   </revhistory>
 
