@@ -3,9 +3,18 @@
   rudder-doc-docinfo.xml
   DocBook document information file for rudder-doc.txt.
 -->
-  <edition>v1.2</edition>
+  <edition>v1.3</edition>
 
   <revhistory>
+
+    <revision>
+      <revnumber>v1.3</revnumber>
+      <date>Junho 2013</date>
+      <authorinitials>Eduardo</authorinitials>
+      <revremark>
+        Inclusão de Simulação de um leitor enviando uma correção (Pull request).
+      </revremark>
+    </revision>
 
 
     <revision>
