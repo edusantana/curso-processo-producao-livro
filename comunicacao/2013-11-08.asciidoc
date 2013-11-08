@@ -13,7 +13,7 @@ Recomendações:
 * Tragam seus notebooks
 * Façam uma conta de usuário no https://github.com[github] antes de começar a aula.
 
-CAUTION: Devido a nova demanda da UFPB Virtual, o horário foi alterado de *Manhã* para *Tarde*,
+CAUTION: Devido a nova demanda da UFPB Virtual, o horário foi do nosso curso foi alterado de *Manhã* para *Tarde*,
 atualizem suas agendas.
 
 
