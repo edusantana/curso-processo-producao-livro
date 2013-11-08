@@ -1,8 +1,6 @@
 == Início das Atividades
 
-Bom dia a todos,
-
-O Nosso curso de produção de livros *terá inicio* em:
+Bom dia a todos, sejam bem vindos ao curso *Processo Ágil de Produção de Livros* que *terá inicio* em:
 
 Data:: SEGUNDA-FEIRA, 11 de Novembro.
 Horário:: TARDE, 14:15 às 17:45.
