@@ -1,0 +1,20 @@
+== Início das Atividades
+
+Bom dia a todos,
+
+O Nosso curso de produção de livros *terá inicio* em:
+
+Data:: SEGUNDA-FEIRA, 11 de Novembro.
+Horário:: TARDE, 14:15 às 17:45.
+Local:: Laboratório de capacitação da UFPB Virtual (ao lado da reitoria, prédio laranja).
+
+Recomendações:
+
+* Tragam seus notebooks
+* Façam uma conta de usuário no https://github.com[github] antes de começar a aula.
+
+CAUTION: Devido a nova demanda da UFPB Virtual, o horário foi alterado de *Manhã* para *Tarde*,
+atualizem suas agendas.
+
+
+NOTE: Já foi solicitado ao suporte o cadastro de vocês na sala de aula virtual.
