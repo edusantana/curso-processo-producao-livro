@@ -6,6 +6,12 @@ Data:: SEGUNDA-FEIRA, 11 de Novembro.
 Horário:: TARDE, 14:15 às 17:45.
 Local:: Laboratório de capacitação da UFPB Virtual (ao lado da reitoria, prédio laranja).
 
+== Contato
+
+|===
+| Eduardo | 8108-1977| eduardo.ufpb@gmail.com
+|====
+
 === Recomendações
 
 Tragam seus notebooks:: Será necessário instalação de aplicativos para produção dos livros.
