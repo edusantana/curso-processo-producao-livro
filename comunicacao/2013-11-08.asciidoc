@@ -2,8 +2,8 @@
 
 Bom dia a todos, sejam bem vindos ao curso *Processo Ágil de Produção de Livros* que *terá inicio* em:
 
-Data:: SEGUNDA-FEIRA, 11 de Novembro.
-Horário:: TARDE, 14:15 às 17:45.
+Data:: *SEGUNDA-FEIRA, 11 de Novembro*.
+Horário:: *TARDE, 14:15 às 17:45*.
 Local:: Laboratório de capacitação da UFPB Virtual (ao lado da reitoria, prédio laranja).
 
 == Contato
