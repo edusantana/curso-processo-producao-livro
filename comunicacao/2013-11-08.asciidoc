@@ -18,8 +18,8 @@ Tragam seus notebooks:: Será necessário instalação de aplicativos para produ
 Conta de usuáiro no github:: Faça uma conta de usuário no https://github.com[github] antes de começar a aula, 
 pois se deixar para última hora talvez não conseguirá criar uma conta.
 
-NOTE: Devido a nova demanda da UFPB Virtual, o horário foi do nosso curso foi alterado de *Manhã* para *Tarde*,
-atualizem suas agendas.
+NOTE: Devido a uma nova demanda da UFPB Virtual, o horário foi do nosso curso foi alterado 
+de *Manhã* para *Tarde*, atualizem suas agendas.
 
 
 NOTE: Já foi solicitado ao suporte o cadastro de vocês na sala de aula virtual.
