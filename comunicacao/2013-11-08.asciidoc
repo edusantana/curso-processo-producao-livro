@@ -21,5 +21,10 @@ pois se deixar para última hora talvez não conseguirá criar uma conta.
 NOTE: Devido a uma nova demanda da UFPB Virtual, o horário foi do nosso curso foi alterado 
 de *Manhã* para *Tarde*, atualizem suas agendas.
 
+=== Webconferência
+
+Enquanto o curso não inicia, vocês podem assistir à webconferência
+realizada anteriormente: http://webconf2.rnp.br/p5ygdcz3cp4/
+
 
 NOTE: Já foi solicitado ao suporte o cadastro de vocês na sala de aula virtual.
